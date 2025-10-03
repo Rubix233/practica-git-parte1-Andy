@@ -1,7 +1,7 @@
 # EJERCICIOS
 
 ## Parte 1
-- Repo: https://github.com/tuusuario/practica-git-parte1-TU-NOMBRE
+- Repo: https://github.com/Rubix233/practica-git-parte1-Andy
 
 ### Comandos ejecutados (resumen)
 1. git clone https://...
