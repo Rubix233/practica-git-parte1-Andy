@@ -14,3 +14,4 @@ tengo los ojos oscuros
 
 ## Favoritos
 - Pelicula: Enemy
+- Doritos: Verdes
