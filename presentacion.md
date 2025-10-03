@@ -1,7 +1,5 @@
 # practica-git-parte1-Andy
-
 # Presentación
-
 **Nombre:** Andy Jan
 
 **Breve presentación:** Soy estudiante de DAM
@@ -14,5 +12,5 @@ tengo los ojos oscuros
 - Videojuegos: FPS
 - Comida: si
 
-  ## Favoritos
-  - Pelicula: Enemy
+## Favoritos
+- Pelicula: Enemy
