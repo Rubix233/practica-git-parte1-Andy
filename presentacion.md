@@ -8,3 +8,8 @@
 me gustan los videojuegos
 mido 1.87m
 tengo los ojos oscuros
+
+## Hobbies
+- Música: Eminem
+- Videojuegos: FPS
+- Comida: si
