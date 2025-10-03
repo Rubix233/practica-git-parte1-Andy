@@ -13,3 +13,6 @@ tengo los ojos oscuros
 - Música: Eminem
 - Videojuegos: FPS
 - Comida: si
+
+  ## Favoritos
+  - Pelicula: Mr.Nobody
