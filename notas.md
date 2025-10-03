@@ -5,3 +5,6 @@
 - Desarrollo de interfaces
 - Ingles
 - Optativa
+
+#Tareas Pendientes
+- Despertarme cada dia
